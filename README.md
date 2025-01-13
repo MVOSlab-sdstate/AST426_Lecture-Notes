@@ -1,10 +1,17 @@
 # AST 426: Lecture Files
 
-This repository contains lecture materials for the course **AST 426**, taught by **Dr. Pappu Kumar Yadav**. These files are designed to support learning and reference for students enrolled in the course.
+This repository contains lecture materials for the course **AST 426: Technology Applications for Precision Agriculture**, taught by **Dr. Pappu Kumar Yadav**. These files are designed to support learning and reference for students enrolled in the course.
 
 ## Course Overview
 
-AST 426 focuses on advanced topics in [insert specific topic/field, e.g., Astrophysics or related subject]. The course includes both standard lectures and guest lectures by experts in the field.
+AST 426 is an in-depth study of technologies that enable precision agriculture. Topics include:
+
+- Global Navigation Satellite Systems (GNSS)
+- Sensors for yield, quality, soil, and crop properties as applied to crop production
+- Controls for variable rate applications and automatic control
+- Communication networks for increasingly connected off-road machines
+
+The course focuses on the integration of advanced technologies to improve agricultural efficiency and productivity.
 
 ## Contents
 
