@@ -17,7 +17,7 @@ The course focuses on the integration of advanced technologies to improve agricu
 
 The repository is organized as follows:
 
-- **Lecture Files**: Numbered sequentially (Lecture 01–21), covering various topics discussed in class.
+### **Lecture Files:** Numbered sequentially (Lecture 01–21), covering various topics discussed in class.
 <ul>
 <li>Lecture 01: Introduction to Precision Agriculture</li>
 <li>Lecture 02: Geospatial Technologies in Agriculture</li>
@@ -40,7 +40,7 @@ The repository is organized as follows:
 <li>Lecture 21: Ethical and Social Consideration in Precision Agriculture</li>
 </ul>
 
-- **Guest Lectures**: Special lectures by guest speakers, labeled separately for clarity.
+### **Guest Lectures:** Special lectures by guest speakers, labeled separately for clarity.
 <ul>
 <li>Guest Lecture 01: Precision Ag from the Eyes of the Sky: From Concepts to Applications</li>
 <li>Guest Lecture 02: Remote Sensing in Precision Agriculture</li>
