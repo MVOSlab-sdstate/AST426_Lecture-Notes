@@ -57,7 +57,14 @@ The repository is organized as follows:
 2. Navigate through the directories to find lecture notes relevant to your studies.
 3. Open `.pdf`, `.docx`, or other file formats using the appropriate software.
 
-## Contribution Guidelines
+<h3 style="font-family: Georgia;">Contributions</h3>
+<p style="font-family: Georgia;">
+Contributions to this repository are welcome. Please follow the standard GitHub pull request process.
+</p>
 
-- This repository is primarily for educational purposes and does not accept external contributions. 
-- For any issues or questions, please reach out to Dr. Pappu Kumar Yadav.
+<h3 style="font-family: Georgia;">Author</h3>
+<p style="font-family: Georgia;">
+<strong>Name:</strong> Dr. Pappu Kumar Yadav  <br>
+<strong>Email:</strong> pappu.yadav@sdstate.edu  <br>
+<strong>Affiliation:</strong> South Dakota State University
+</p>
