@@ -18,8 +18,8 @@ The course focuses on the integration of advanced technologies to improve agricu
 The repository is organized as follows:
 
 ### **Lecture Files:** 
+- [Lecture 01: Introduction to Precision Agriculture](https://github.com/MVOSlab-sdstate/AST426_Lecture-Notes/blob/main/AST%20426%20Guest%20Lecture%2001/AST%20426%20Guest%20Lecture%2001.pdf)
 <ul>
-<li>Lecture 01: Introduction to Precision Agriculture</li>
 <li>Lecture 02: Geospatial Technologies in Agriculture</li>
 <li>Lecture 03: Sensing Technologies for Precision farming I</li>
 <li>Lecture 04: Sensing Technologies for Precision farming II</li>
